@@ -7,25 +7,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.xn--MAPAHISTRICO_DE_CAJAZEIRAS-j3b.com/contato.html</loc>
-    <lastmod>2018-11-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.xn--MAPAHISTRICO_DE_CAJAZEIRAS-j3b.com/sobre.html</loc>
     <lastmod>2019-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.xn--MAPAHISTRICO_DE_CAJAZEIRAS-j3b.com/postagens.html</loc>
-    <lastmod>2019-07-06</lastmod>
+    <loc>http://www.xn--MAPAHISTRICO_DE_CAJAZEIRAS-j3b.com/contato.html</loc>
+    <lastmod>2018-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.xn--MAPAHISTRICO_DE_CAJAZEIRAS-j3b.com/images/capturar.jpg</loc>
+    <loc>http://www.xn--MAPAHISTRICO_DE_CAJAZEIRAS-j3b.com/postagens.html</loc>
     <lastmod>2019-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -61,6 +55,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.xn--MAPAHISTRICO_DE_CAJAZEIRAS-j3b.com/images/1.png</loc>
+    <lastmod>2019-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.xn--MAPAHISTRICO_DE_CAJAZEIRAS-j3b.com/images/t%C3%AAnis%20clube%20ac2b-.jpg</loc>
     <lastmod>2019-07-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -68,12 +68,6 @@
   </url>
   <url>
     <loc>http://www.xn--MAPAHISTRICO_DE_CAJAZEIRAS-j3b.com/images/logo.png</loc>
-    <lastmod>2019-07-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.xn--MAPAHISTRICO_DE_CAJAZEIRAS-j3b.com/images/171x45.png</loc>
     <lastmod>2019-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -121,12 +115,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.xn--MAPAHISTRICO_DE_CAJAZEIRAS-j3b.com/images/1.png</loc>
-    <lastmod>2019-07-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.xn--MAPAHISTRICO_DE_CAJAZEIRAS-j3b.com/images/ac2b%20291010%20cajazeiras%20-%20col%C3%A9gio%20padre%20rolim.jpg</loc>
     <lastmod>2019-07-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -134,6 +122,12 @@
   </url>
   <url>
     <loc>http://www.xn--MAPAHISTRICO_DE_CAJAZEIRAS-j3b.com/images/tenis2016-e1474108034305.jpg</loc>
+    <lastmod>2019-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.xn--MAPAHISTRICO_DE_CAJAZEIRAS-j3b.com/images/171x45.png</loc>
     <lastmod>2019-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

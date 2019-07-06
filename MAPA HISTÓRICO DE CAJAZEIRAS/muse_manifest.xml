@@ -1,11 +1,11 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.MAPAHISTÓRICO_DE_CAJAZEIRAS.com" resolutions="1x" timestamp="1562383000130">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.MAPAHISTÓRICO_DE_CAJAZEIRAS.com" resolutions="1x" timestamp="1562384159965">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-mestre.css" crc="55483018" ref="sobre:postagens:index:contato"/>
-    <file name="sobre.css" crc="4034615425" ref="sobre"/>
-    <file name="postagens.css" crc="3896581580" ref="postagens"/>
-    <file name="index.css" crc="290482182" ref="index"/>
-    <file name="contato.css" crc="278731280" ref="contato"/>
+    <file name="master_a-mestre.css" crc="55483018" ref="contato:index:sobre:postagens"/>
+    <file name="contato.css" crc="342001632" ref="contato"/>
+    <file name="index.css" crc="43659153" ref="index"/>
+    <file name="sobre.css" crc="486277492" ref="sobre"/>
+    <file name="postagens.css" crc="177891170" ref="postagens"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:postagens:contato:sobre"/>
@@ -37,7 +37,6 @@
     <file name="pencil-writing-on-a-paper-sheet_icon-iconscom_70422.png" crc="3853605882" ref="index"/>
     <file name="2c785811f1a446cb090ef531e1927589.png" crc="364008188" ref="index"/>
     <file name="logo.png" crc="24164157" seo="true" ref="index"/>
-    <file name="capturar.jpg" crc="3921705801" seo="true" ref="postagens:sobre"/>
     <file name="cajazeiras9751409x360.jpg" crc="111647398" seo="true" ref="postagens"/>
     <file name="antiga-estação-ferroviária-de-cajazeiras_2008_02.jpg" crc="4230829648" seo="true" ref="postagens"/>
     <file name="cajazeiras975160x53.jpg" crc="32953917" seo="true" ref="postagens"/>
@@ -53,7 +52,7 @@
     <file name="coreto63x45.jpg" crc="4190735060" seo="true" ref="postagens"/>
     <file name="30972062604_fa4a1b89cf_b60x45.jpg" crc="4122601866" seo="true" ref="postagens"/>
     <file name="coreto.jpg" crc="63011205" seo="true" ref="postagens"/>
-    <file name="u2487-14.png" crc="499070484" ref="postagens"/>
+    <file name="u2487-14.png" crc="461282172" ref="postagens"/>
     <file name="ggg-retângulo 1.png" crc="4220754424" ref="postagens"/>
     <file name="u2074-7.png" crc="3807690608" ref="postagens"/>
     <file name="u2270-13.png" crc="3967395414" ref="postagens"/>
@@ -64,8 +63,8 @@
     <file name="sem título-1.png" crc="431302842" ref="sobre"/>
     <file name="sem título-1-38000372_1357566927720069_7565991015421575168_n.png" crc="3909134964" ref="sobre"/>
   </folder>
-  <file name="index.html" crc="405113901" seo="true" mt="1542857479775" redirect="true"/>
-  <file name="postagens.html" crc="3976541280" seo="true" mt="1562382901874" redirect="true"/>
-  <file name="contato.html" crc="3983221974" seo="true" mt="1542857479775" redirect="true"/>
-  <file name="sobre.html" crc="3947619762" seo="true" mt="1562382853618" redirect="true"/>
+  <file name="index.html" crc="4086636682" seo="true" mt="1542857479775" redirect="true"/>
+  <file name="postagens.html" crc="467508762" seo="true" mt="1562383430389" redirect="true"/>
+  <file name="contato.html" crc="3874725104" seo="true" mt="1542857479775" redirect="true"/>
+  <file name="sobre.html" crc="54233180" seo="true" mt="1562384127784" redirect="true"/>
 </manifest>
