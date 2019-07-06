@@ -1,0 +1,31 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="ZE.COM" resolutions="1x" timestamp="1543198370704">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="485875060" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="168988563" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="webpro.js" crc="3848665353" ref="index"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
+    <file name="touchswipe.js" crc="404375771" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="52823_counter_strike.jpg" crc="4260105007" seo="true" ref="index"/>
+    <file name="8_counter-strike-16.jpg" crc="25946227" seo="true" ref="index"/>
+    <file name="761screen1375915598.jpg" crc="309196744" seo="true" ref="index"/>
+    <file name="s-l640-u398-fr.jpg" crc="281817142" ref="index"/>
+    <file name="counter-strike-png-image-u382-fr.png" crc="438740777" ref="index"/>
+  </folder>
+  <file name="index.html" crc="35887930" seo="true" mt="1543198331295" redirect="true"/>
+</manifest>
