@@ -1,31 +1,71 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="ZE.COM" resolutions="1x" timestamp="1543198370704">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.MAPAHISTÓRICO_DE_CAJAZEIRAS.com" resolutions="1x" timestamp="1562383000130">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="485875060" ref="index"/>
+    <file name="master_a-mestre.css" crc="55483018" ref="sobre:postagens:index:contato"/>
+    <file name="sobre.css" crc="4034615425" ref="sobre"/>
+    <file name="postagens.css" crc="3896581580" ref="postagens"/>
+    <file name="index.css" crc="290482182" ref="index"/>
+    <file name="contato.css" crc="278731280" ref="contato"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="163421577" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="168988563" ref="index"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index"/>
-    <file name="webpro.js" crc="3848665353" ref="index"/>
-    <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
-    <file name="touchswipe.js" crc="404375771" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
-    <file name="jquery.musemenu.js" crc="146495465" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index"/>
-    <file name="require.js" crc="244322403" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:postagens:contato:sobre"/>
+    <file name="museutils.js" crc="163421577" ref="index:postagens:contato:sobre"/>
+    <file name="whatinput.js" crc="86476730" ref="index:postagens:contato:sobre"/>
+    <file name="museconfig.js" crc="168988563" ref="index:postagens:contato:sobre"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:postagens:contato:sobre"/>
+    <file name="webpro.js" crc="3848665353" ref="index:postagens:contato"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index:postagens"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index:postagens"/>
+    <file name="touchswipe.js" crc="404375771" ref="index:postagens"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:postagens:sobre"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:postagens:contato:sobre"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:postagens:contato:sobre"/>
+    <file name="require.js" crc="244322403" ref="index:postagens:contato:sobre"/>
+    <file name="form_check.php" crc="158155501" ref="contato"/>
+    <file name="form_throttle.php" crc="3992970984" ref="contato"/>
+    <file name="form_process.php" crc="4078697226" ref="contato"/>
+    <file name="form-u1466.php" crc="9095145" ref="contato"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="52823_counter_strike.jpg" crc="4260105007" seo="true" ref="index"/>
-    <file name="8_counter-strike-16.jpg" crc="25946227" seo="true" ref="index"/>
-    <file name="761screen1375915598.jpg" crc="309196744" seo="true" ref="index"/>
-    <file name="s-l640-u398-fr.jpg" crc="281817142" ref="index"/>
-    <file name="counter-strike-png-image-u382-fr.png" crc="438740777" ref="index"/>
+    <file name="ac2b 291010 cajazeiras - colégio padre rolim.jpg" crc="413799896" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:postagens"/>
+    <file name="cajazeiras9751.jpg" crc="3826445160" seo="true" ref="index"/>
+    <file name="tênis clube ac2b-.jpg" crc="4219456193" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:postagens"/>
+    <file name="building_home_house_icon_128.png" crc="370534711" ref="index"/>
+    <file name="fileoutlinedpapersheet_80670.png" crc="524194227" ref="index"/>
+    <file name="pencil-writing-on-a-paper-sheet_icon-iconscom_70422.png" crc="3853605882" ref="index"/>
+    <file name="2c785811f1a446cb090ef531e1927589.png" crc="364008188" ref="index"/>
+    <file name="logo.png" crc="24164157" seo="true" ref="index"/>
+    <file name="capturar.jpg" crc="3921705801" seo="true" ref="postagens:sobre"/>
+    <file name="cajazeiras9751409x360.jpg" crc="111647398" seo="true" ref="postagens"/>
+    <file name="antiga-estação-ferroviária-de-cajazeiras_2008_02.jpg" crc="4230829648" seo="true" ref="postagens"/>
+    <file name="cajazeiras975160x53.jpg" crc="32953917" seo="true" ref="postagens"/>
+    <file name="antiga-estação-ferroviária-de-cajazeiras_2008_0260x46.jpg" crc="4032825340" seo="true" ref="postagens"/>
+    <file name="map-capturar.png" crc="268101137" ref="postagens"/>
+    <file name="map.png" crc="528628936" ref="postagens"/>
+    <file name="cajazeiras9751521x460.jpg" crc="527656268" seo="true" ref="postagens"/>
+    <file name="1.png" crc="3926892696" seo="true" ref="postagens"/>
+    <file name="tenis2016-e1474108034305.jpg" crc="115898483" seo="true" ref="postagens"/>
+    <file name="171x45.png" crc="4288277289" seo="true" ref="postagens"/>
+    <file name="coreto480x343.jpg" crc="300276941" seo="true" ref="postagens"/>
+    <file name="30972062604_fa4a1b89cf_b.jpg" crc="463646754" seo="true" ref="postagens"/>
+    <file name="coreto63x45.jpg" crc="4190735060" seo="true" ref="postagens"/>
+    <file name="30972062604_fa4a1b89cf_b60x45.jpg" crc="4122601866" seo="true" ref="postagens"/>
+    <file name="coreto.jpg" crc="63011205" seo="true" ref="postagens"/>
+    <file name="u2487-14.png" crc="499070484" ref="postagens"/>
+    <file name="ggg-retângulo 1.png" crc="4220754424" ref="postagens"/>
+    <file name="u2074-7.png" crc="3807690608" ref="postagens"/>
+    <file name="u2270-13.png" crc="3967395414" ref="postagens"/>
+    <file name="u1518-5.png" crc="390691834" ref="contato"/>
+    <file name="kisspng-computer-icons-clip-art-computer-file-portable-net-cannonex-5b67b4f362a4c95727071115335231874041.png" crc="20294233" seo="true" ref="contato"/>
+    <file name="ggt.png" crc="23244257" ref="sobre"/>
+    <file name="u1595-4.png" crc="3894572705" ref="sobre"/>
+    <file name="sem título-1.png" crc="431302842" ref="sobre"/>
+    <file name="sem título-1-38000372_1357566927720069_7565991015421575168_n.png" crc="3909134964" ref="sobre"/>
   </folder>
-  <file name="index.html" crc="35887930" seo="true" mt="1543198331295" redirect="true"/>
+  <file name="index.html" crc="405113901" seo="true" mt="1542857479775" redirect="true"/>
+  <file name="postagens.html" crc="3976541280" seo="true" mt="1562382901874" redirect="true"/>
+  <file name="contato.html" crc="3983221974" seo="true" mt="1542857479775" redirect="true"/>
+  <file name="sobre.html" crc="3947619762" seo="true" mt="1562382853618" redirect="true"/>
 </manifest>
